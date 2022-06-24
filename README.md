@@ -1,6 +1,6 @@
 # Repósitório da atividades prática do curso "Introdução ao JavaScript"- Digital Innovation One
 
-##Este repositório contém a atividade- **Contador**.
+## Este repositório contém a atividade- **Contador**.
 
 Este projeto consiste em realizar a integração de um código em JavaScript com uma página em HTML.
 
