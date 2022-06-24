@@ -1,6 +1,11 @@
-# Dasafios de códigos em JavaScript- Digital Innovation One
+# Repósitório da atividades prática do curso "Introdução ao JavaScript"- Digital Innovation One
 
-Repósitório de atividades práticas do curso "Introdução ao JavaScript"- Digital Innovation One
-Este repositório contém duas atividas práticas em JavaScript, sendo:
-1ª Contador,
-2ª Desafio: To-do-list
+##Este repositório contém a atividade- **Contador**.
+
+Este projeto consiste em realizar a integração de um código em JavaScript com uma página em HTML.
+
+1.Foi implementado os eventos utilizando o método _AddEventListener_.
+2.Criei condicionais que desabilitam o botão de incrementar de decrementar quando chega aos valores (cont <= 10, cont >= -10)
+3.Quando o número é negativo a sua cor é alterada para o vermelho.
+
+Muito obrigado a professora Stephany Nusch e a Digital Innovation One pela oportunidade!
